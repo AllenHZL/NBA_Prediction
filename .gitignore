@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+
+# Local data and generated outputs
+data/nba_kaggle_dataset/
+data/processed/
+data/cache/
+images/
+logs/
+
+# Large or generated data artifacts
+*.parquet
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

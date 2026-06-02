@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.2
+nba_api>=1.4
+requests>=2.31
+lxml>=5.0
