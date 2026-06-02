@@ -1,0 +1,26 @@
+{
+  "source": "kaggle_local_eoinamoore",
+  "regular_seasons": [
+    "1996-97",
+    "2025-26"
+  ],
+  "completed_playoff_seasons": [
+    "1996-97",
+    "2024-25"
+  ],
+  "note": "2025-26 playoffs are intentionally excluded from training/test labels.",
+  "historical_overlap": {
+    "status": "completed",
+    "overlap_seasons": [
+      "1996-97",
+      "2022-23"
+    ],
+    "old_rs_rows": 802,
+    "new_rs_rows": 802,
+    "matched_rs_rows": 802,
+    "max_abs_w_diff": 0.0,
+    "max_abs_l_diff": 0.0,
+    "max_abs_w_pct_diff": 0.0004925373134328503,
+    "max_abs_net_rating_diff": 0.6809772667886049
+  }
+}

@@ -1,0 +1,9 @@
+SEASON,Conference,Predicted Top 2,Actual Finalists,Hits
+2021-22,East,"['Miami Heat', 'Boston Celtics']","['Boston Celtics', 'Miami Heat']",2
+2021-22,West,"['Phoenix Suns', 'Golden State Warriors']","['Dallas Mavericks', 'Golden State Warriors']",1
+2022-23,East,"['Boston Celtics', 'Philadelphia 76ers']","['Boston Celtics', 'Miami Heat']",1
+2022-23,West,"['Denver Nuggets', 'Memphis Grizzlies']","['Denver Nuggets', 'Los Angeles Lakers']",1
+2023-24,East,"['Boston Celtics', 'New York Knicks']","['Boston Celtics', 'Indiana Pacers']",1
+2023-24,West,"['Minnesota Timberwolves', 'Oklahoma City Thunder']","['Dallas Mavericks', 'Minnesota Timberwolves']",1
+2024-25,East,"['Cleveland Cavaliers', 'Boston Celtics']","['Indiana Pacers', 'New York Knicks']",0
+2024-25,West,"['Oklahoma City Thunder', 'Los Angeles Clippers']","['Minnesota Timberwolves', 'Oklahoma City Thunder']",1

@@ -11,7 +11,6 @@ env/
 
 # Local data and generated outputs
 data/nba_kaggle_dataset/
-data/processed/
 data/cache/
 images/
 logs/
@@ -24,4 +23,3 @@ logs/
 Thumbs.db
 .vscode/
 .idea/
-
