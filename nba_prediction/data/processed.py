@@ -89,4 +89,3 @@ def select_feature_columns(df_main, train_mask):
 
 def fill_features(df, feature_cols, medians):
     return df[feature_cols].fillna(medians).fillna(0)
-

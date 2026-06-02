@@ -56,12 +56,14 @@ nba_prediction/
 
 - binary metrics
 - ranking-based evaluation
+- baseline ranking comparison
 
 `visualization/`：
 
 - EDA plots
 - ROC curves
 - feature importance
+- baseline comparison plot
 
 ## Data And Outputs
 
@@ -74,3 +76,5 @@ docs/                      project documentation
 ```
 
 Root 目錄舊 Brescou CSV 仍保留，用來和 processed regular season data 做 overlap validation。
+
+`docs/research_findings.md` 是報告與 slides 的重點素材整理。

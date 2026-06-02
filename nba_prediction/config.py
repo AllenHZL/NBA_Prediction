@@ -37,4 +37,3 @@ MODEL_METRIC_COLUMNS = [
     "FN",
     "TP",
 ]
-

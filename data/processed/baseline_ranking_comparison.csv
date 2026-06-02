@@ -1,0 +1,5 @@
+Method,Total Hits,Total Slots,Hit Rate,Perfect Conferences
+Random Forest,8.0,16.0,0.5,1.0
+Random Guess (Expected),4.0,16.0,0.25,0.28571428571428564
+W_PCT Top 2,6.0,16.0,0.375,1.0
+NET_RATING Top 2,8.0,16.0,0.5,2.0

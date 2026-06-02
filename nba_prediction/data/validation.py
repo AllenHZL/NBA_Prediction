@@ -97,4 +97,3 @@ def write_outputs(outputs, source):
     }
     (DATA_DIR / "metadata.json").write_text(json.dumps(metadata, indent=2), encoding="utf-8")
     print("Wrote metadata.json")
-

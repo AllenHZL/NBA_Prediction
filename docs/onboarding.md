@@ -7,7 +7,7 @@ Kaggle raw CSV
   -> fetch_nba_data.py
   -> data/processed/*.csv
   -> run_nba_prediction.py
-  -> logs/output.md + images/*.png
+  -> logs/output.md + images/*.png + data/processed/*_comparison.csv
 ```
 
 ## How To Run
@@ -30,7 +30,8 @@ python run_nba_prediction.py
 2. `docs/project_structure.md`
 3. `docs/data_pipeline.md`
 4. `docs/modeling.md`
-5. `nba_prediction/pipeline.py`
+5. `docs/research_findings.md`
+6. `nba_prediction/pipeline.py`
 
 ## Where To Change Things
 
@@ -53,9 +54,11 @@ python run_nba_prediction.py
 - `2025-26` 只做 bonus prediction，不放進 train/test label。
 - 圖片固定輸出到 `images/`。
 - CLI 結果固定輸出到 `logs/output.md`。
+- `data/processed/ranking_evaluation.csv` 是 final test ranking 評估。
+- `data/processed/baseline_ranking_comparison.csv` 是模型與 random guess / W_PCT / NET_RATING 的增益比較。
+- `data/processed/live_conference_finals_prediction.csv` 是 `2025-26` live 分區決賽隊伍預測。
 - 改完程式後至少跑：
 
 ```powershell
 python run_nba_prediction.py
 ```
-
